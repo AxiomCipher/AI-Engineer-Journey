@@ -32,7 +32,7 @@ print('Here is a value detection program!')
 # Taking user input as string
 num_as_str = input("Enter a value: ")
 
-# Converting input to integer (⚠️ will error if input is not a number)
+# Converting input to integer (this will generate an error if input is not a number)
 num = int(num_as_str)
 
 # Checking whether number is positive, negative, or zero
