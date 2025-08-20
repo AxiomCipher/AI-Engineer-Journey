@@ -1,7 +1,9 @@
-# AI-Engineer-Journey
-# Python Learning Journey 🚀
+# AI Engineering Journey 🚀
 
-This repository contains my solutions from practicing Python basics, organized **week by week**.  
+This repository is part of my journey to become an **AI Engineer**.  
+I’m starting with Python because it is the core language used in **machine learning, data science, and artificial intelligence**.  
+
+The repository contains my solutions from practicing Python basics, organized **week by week**.  
 Each week introduces new concepts — from printing text to dictionaries and conditionals.
 
 ## Covered Topics
@@ -20,4 +22,4 @@ Each week introduces new concepts — from printing text to dictionaries and con
 - and so on...
 
 ## Next Steps
-I will continue adding more weeks as I learn advancedAI-Engineer-Journey
+I will continue adding more weeks as I strengthen my Python skills and then progress to **machine learning and AI concepts** 🚀
